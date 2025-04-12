@@ -13,4 +13,4 @@ function multiply(numberOne,numberTwo,numberThree,numberFour){
     let result = numberOne*numberTwo*numberThree*numberFour;
     return result;
 }
-console.log(multiply(2,2,2,2));
+console.log(multiply(3,2,2,2));
